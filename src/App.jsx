@@ -1,13 +1,15 @@
 import React, { useState, useEffect } from "react";
 import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
-import { Features } from "./components/features";
-import { About } from "./components/about";
-import { Services } from "./components/services";
-import { Gallery } from "./components/gallery";
-import { Testimonials } from "./components/testimonials";
-import { Team } from "./components/Team";
-import { Contact } from "./components/contact";
+import { Scenario1 } from "./components/Scenario1";
+import { Scenario2 } from "./components/Scenario2";
+import { Scenario3 } from "./components/Scenario3";
+import { Executive } from "./components/Executive";
+import { Problem } from "./components/Problem";
+import { ProductScreenLight } from "./components/ProductScreenLight";
+import { ProductScreenDark } from "./components/ProductScreenDark";
+import { ProductWatch } from "./components/ProductWatch";
+import { RadioSection } from "./components/RadioSection";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
@@ -27,13 +29,15 @@ const App = () => {
     <div>
       <Navigation />
       <Header data={landingPageData.Header} />
-      <Features data={landingPageData.Features} />
-      <About data={landingPageData.About} />
-      <Services data={landingPageData.Services} />
-      <Gallery data={landingPageData.Gallery} />
-      <Testimonials data={landingPageData.Testimonials} />
-      <Team data={landingPageData.Team} />
-      <Contact data={landingPageData.Contact} />
+      <ProductScreenLight data={landingPageData.ProductScreenLight} />
+      <ProductScreenDark data={landingPageData.ProductScreenDark} />
+      <ProductWatch data={landingPageData.ProductWatch} />
+      <RadioSection data={landingPageData.RadioSection} />
+      <Scenario1 data={landingPageData.Scenario1} />
+      <Scenario2 data={landingPageData.Scenario2} />
+      <Scenario3 data={landingPageData.Scenario3} />
+      <Executive data={landingPageData.Executive} />
+      <Problem data={landingPageData.Problem} />
     </div>
   );
 };

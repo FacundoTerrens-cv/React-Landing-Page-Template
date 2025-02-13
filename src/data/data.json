@@ -1,184 +1,87 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "ViveHome",
+    "paragraph": "User Case Scenarios"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "ViveHome is a smart home monitoring system designed for real-time health data tracking. It integrates a smartwatch, main screen, and additional screens to monitor and protect your health in the comfort of your home.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Real-time health monitoring.",
+      "Emergency alerts for immediate response.",
+      "No more blind spots in health tracking.",
+      "Affordable and easy-to-implement solution."
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Seamless integration with home systems.",
+      "Highly scalable system for any home size.",
+      "Multi-platform availability (Web and Mobile).",
+      "AI-powered health insights and alerts."
     ]
   },
-  "Gallery": [
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
-    }
-  ],
-  "Services": [
-    {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
-  ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
-  ],
-  "Team": [
-    {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
-    }
-  ],
+  "Scenario1": {
+    "title": "Small Home (20-40m²) - 1 Screen and 1 Watch",
+    "paragraph": "In small homes (20-40m²), ViveHome works with a single 10-meter coverage area, offering basic health tracking through a combination of the ViveHome System (Main Screen) and the ViveHome Watch for the user. This compact system provides constant monitoring in real-time, ensuring safety at home.",
+    "paragraphB": "With a compact and intuitive design, the system monitors vital signs such as heart rate, oxygen levels, and body temperature. In case of any emergency, alerts are sent to the user's caregivers or loved ones."
+  },
+  "Scenario2": {
+    "title": "Medium-Sized Home (50-100m²) - 1 Main Screen, 1 Extra Screen, and 1 Watch",
+    "paragraph": "For medium-sized homes (50-100m²), the system expands to two screens with an additional extra screen. With a 20-meter coverage area, the ViveHome system tracks health data across multiple rooms and provides notifications to caregivers if there are any anomalies or when the user moves between zones.",
+    "paragraphB": "The integration of the ViveHome Watch ensures continuous health tracking, while the extra screen provides additional data and insights, enhancing the overall experience and monitoring coverage."
+  },
+  "Scenario3": {
+    "title": "Large Home (100-200m²) - 1 Main Screen, 3 Extra Screens, and 1 Watch",
+    "paragraph": "In large homes (100-200m²), the ViveHome system becomes even more powerful. With a main screen, three extra screens, and the ViveHome Watch, the entire house is covered with a 40-meter+ radius of health monitoring. Users can rest assured that their health is continuously being tracked throughout their home.",
+    "paragraphB": "With the ability to monitor multiple rooms simultaneously, the system ensures no areas are left unmonitored. The safety zones are dynamically adjusted to the user's location within the home, providing real-time updates on vital health data."
+  },
+  "Executive": {
+    "title": "Executive Summary",
+    "paragraph": "ViveHome is a leading health and safety solution for homes, providing comprehensive monitoring systems for the elderly and individuals with chronic health conditions. With scalable features, the system can adapt to any home size while maintaining real-time tracking of health data, emergency alerts, and seamless communication between caregivers and family members."
+  },
+  "Problem": {
+    "title": "Problem & Solution",
+    "paragraph": "There is a significant gap in home safety and health monitoring, especially for individuals who are elderly or suffering from chronic health conditions. Traditional methods of tracking health are inadequate, leaving many without the peace of mind they deserve. ViveHome solves this problem by providing an integrated system that monitors vital health signs in real-time, detects anomalies, and alerts caregivers when necessary."
+  },
+  "System": {
+    "title": "How the System Works",
+    "paragraph": "The ViveHome system combines the use of a smartwatch and screens placed throughout the home to provide continuous monitoring of health data. The smartwatch tracks vital health signs such as heart rate, temperature, oxygen levels, and more. The main and extra screens display real-time data and receive alerts in case of any emergency.",
+    "small": [
+      "One main screen for tracking health.",
+      "Single smartwatch to monitor the user’s vital signs.",
+      "Immediate alerts sent in case of health anomalies."
+    ],
+    "medium": [
+      "Main screen and extra screen for wider coverage.",
+      "User's health data displayed in multiple rooms.",
+      "Alert system that notifies caregivers in real-time."
+    ],
+    "large": [
+      "Multiple screens for comprehensive home coverage.",
+      "Health tracking and alerts across several zones of the house.",
+      "AI-powered health analysis for predictive alerts."
+    ]
+  },
+  "ProductScreenLight": {
+    "title": "Screen - Light Mode",
+    "paragraph": "The ViveHome screen in light mode offers a clear and intuitive interface, ideal for daytime use. It provides real-time health monitoring, emergency alerts, and an easy-to-read dashboard to track all vital signs."
+  },
+  "ProductScreenDark": {
+    "title": "Screen - Dark Mode",
+    "paragraph": "The ViveHome screen in dark mode is designed for night-time use, reducing eye strain while maintaining all the essential functionalities. The contrast ensures visibility in low-light conditions, providing seamless monitoring 24/7."
+  },
+  "ProductWatch": {
+    "title": "ViveHome Watch",
+    "paragraph": "The ViveHome Watch is a lightweight, waterproof device designed for constant health tracking. It monitors heart rate, oxygen levels, and temperature while seamlessly integrating with the ViveHome screens for real-time updates."
+  },
+  "RadioSection": {
+    "title": "Screen Coverage Area",
+    "paragraph": "Each ViveHome screen covers a radius of 10 meters, ensuring that no health data is lost. Multiple screens can be strategically placed throughout the house to guarantee full coverage, especially in larger homes."
+  },
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "4321 California St, San Francisco, CA 12345",
     "phone": "+1 123 456 1234",
     "email": "info@company.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
-  },
-  "Features": [
-    {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    }
-  ]
+  }
 }
